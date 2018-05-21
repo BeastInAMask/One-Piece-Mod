@@ -19,7 +19,7 @@ import src.main.java.beast.mods.onepiecemod.Items.*;
 public class OnePieceMod {
 
 
-
+    private static Item itemMera;
 
 
 
@@ -32,7 +32,7 @@ public class OnePieceMod {
         //Config handling
         Item itemYami = new ItemFood(20, 1.0F, false).setUnlocalizedName("ItemYami").setTextureName("bopm:itemyami").setCreativeTab(tabFruits);
         Item itemKikoku = new ItemKikoku(KikokuToolMaterial).setUnlocalizedName("ItemKikoku").setTextureName("bopm:itemkikoku");
-        Item itemMera = new ItemFood(20, 1.0F, false).setUnlocalizedName("ItemMera").setTextureName("bopm:itemmera").setCreativeTab(tabFruits);
+        itemMera = new ItemFood(20, 1.0F, false).setUnlocalizedName("ItemMera").setTextureName("bopm:itemmera").setCreativeTab(tabFruits);
         Item itemGomu = new ItemFood(20, 1.0F, false).setUnlocalizedName("ItemGomu").setTextureName("bopm:itemgomu").setCreativeTab(tabFruits);
         Item itemDev = new ItemFood(20, 1.0F, false).setUnlocalizedName("ItemDev").setTextureName("bopm:itemyami").setCreativeTab(tabFruits);
 
