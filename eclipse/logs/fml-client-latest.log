@@ -607,3 +607,7 @@ Details:
 [21:44:22] [Client thread/DEBUG] [Minecraft Forge/]: Mod Minecraft Forge is missing a pack.mcmeta file, substituting a dummy one
 [21:44:22] [Client thread/DEBUG] [Beast's One Piece Mod/]: Mod Beast's One Piece Mod is missing a pack.mcmeta file, substituting a dummy one
 [21:44:22] [Client thread/DEBUG] [FML/]: Bar Finished: Loading took 74.762s
+[10:04:48] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[10:04:48] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[10:04:49] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[10:04:49] [Client thread/INFO] [STDOUT/]: [paulscode.sound.SoundSystemLogger:message:69]: 
