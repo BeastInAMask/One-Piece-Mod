@@ -1,6 +1,5 @@
 package src.main.java.beast.mods.onepiecemod.Blocks;
 
-import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.client.model.ModelBase;
 import net.minecraft.client.model.ModelRenderer;
