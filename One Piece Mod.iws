@@ -2,10 +2,49 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f9bab5f-511f-4b86-a42a-78e247bbcda7" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/eclipse/saves/Test/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/One Piece Mod.iws" beforeDir="false" afterPath="$PROJECT_DIR$/One Piece Mod.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/config/splash.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/mcmod.info" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/mcmod.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Test/DIM-1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Test/DIM-1/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Test/DIM1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Test/DIM1/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Test/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Test/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Test/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Test/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Test/playerdata/ea704295-ecbc-3318-85ee-aeca9a32f449.dat" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Test/playerdata/ea704295-ecbc-3318-85ee-aeca9a32f449.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Test/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Test/region/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Test/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Test/region/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Test/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Test/region/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Test/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Test/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Test/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Test/session.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/eclipse/saves/Test/stats/ea704295-ecbc-3318-85ee-aeca9a32f449.json" beforeDir="false" afterPath="$PROJECT_DIR$/eclipse/saves/Test/stats/ea704295-ecbc-3318-85ee-aeca9a32f449.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/config/splash.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/config/splash.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/logs/fml-client-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/logs/fml-client-1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/logs/fml-client-2.log" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/logs/fml-client-2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/logs/fml-client-3.log" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/logs/fml-client-3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/logs/fml-client-latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/logs/fml-client-latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/logs/fml-junk-earlystartup.log" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/logs/fml-junk-earlystartup.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/logs/latest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/DIM-1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/DIM-1/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/DIM1/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/DIM1/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/data/villages.dat" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/data/villages.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/level.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/level.dat_old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/playerdata/ea704295-ecbc-3318-85ee-aeca9a32f449.dat" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/playerdata/ea704295-ecbc-3318-85ee-aeca9a32f449.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/region/r.-1.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/region/r.-1.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/region/r.0.-1.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/region/r.0.0.mca" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/session.lock" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/session.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/stats/ea704295-ecbc-3318-85ee-aeca9a32f449.json" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/One Piece Mod/eclipse/saves/Test/stats/ea704295-ecbc-3318-85ee-aeca9a32f449.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Items/ItemMera.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Items/ItemMera.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/guis/StatGui.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/assets/bopm/textures/GUI/StatsGUI.png" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -16,6 +55,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/One_Piece_Mod$Minecraft_Client.ic" NAME="Minecraft Client Coverage Results" MODIFIED="1526960548271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -69,13 +111,16 @@
       </state>
     </system>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="One Piece Mod" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="OnePieceMod.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/OnePieceMod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="122">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="289">
+              <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,7 +141,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Blocks/BlockMera.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="52" lean-forward="true" selection-start-column="52" selection-end-column="52" />
+              <caret column="52" selection-start-column="52" selection-end-column="52" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -120,16 +165,16 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
-              <caret line="9" column="76" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+              <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="ItemMera.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/ItemMera.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Items/ItemMera.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" lean-forward="true" selection-end-line="15" />
+            <state relative-caret-position="238">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -137,7 +182,7 @@
       <file leaf-file-name="ItemFood.java" pinned="false" current-in-tab="false">
         <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/item/ItemFood.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
+            <state relative-caret-position="187">
               <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -149,8 +194,8 @@
       <file leaf-file-name="en_US.lang" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/assets/bopm/lang/en_US.lang">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            <state relative-caret-position="68">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -189,10 +234,13 @@
         <option value="$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Items/ItemMeraLeggings.java" />
         <option value="$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Items/ItemMeraChestplate.java" />
         <option value="$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Items/ItemMeraArmour.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Blocks/BlockMera.java" />
         <option value="$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/ItemMera.java" />
         <option value="$PROJECT_DIR$/src/main/resources/assets/bopm/lang/en_US.lang" />
-        <option value="$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Blocks/BlockMera.java" />
         <option value="$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/OnePieceMod.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/guis/StatGui.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Items/CharacterCreator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Items/ItemMera.java" />
         <option value="$PROJECT_DIR$/src/main/resources/mcmod.info" />
       </list>
     </option>
@@ -208,8 +256,8 @@
     <option name="LAST_EDITED_TAB_NAME" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="54" />
-    <option name="y" value="252" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1346" />
     <option name="height" value="545" />
   </component>
@@ -228,6 +276,7 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -251,20 +300,6 @@
               <item name="One Piece Mod" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="onepiecemod" type="462c0819:PsiDirectoryNode" />
-              <item name="Blocks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="One Piece Mod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="One Piece Mod" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="onepiecemod" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="One Piece Mod" type="b2602c69:ProjectViewProjectNode" />
-              <item name="One Piece Mod" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="onepiecemod" type="462c0819:PsiDirectoryNode" />
               <item name="Items" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -278,7 +313,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -336,6 +370,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="false" factoryName="Application" name="Minecraft Client" type="Application">
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
+      <option name="MAIN_CLASS_NAME" value="GradleStart" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Xmx1024M -Xms1024M" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../One Piece Mod\eclipse" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="One Piece Mod" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration name="Minecraft Server" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="GradleStartServer" />
       <module name="One Piece Mod" />
@@ -347,6 +398,23 @@
         <option name="BuildArtifacts" enabled="false" />
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration default="false" factoryName="Application" name="Minecraft Server" type="Application">
+      <extension enabled="false" name="coverage" runner="idea" sample_coverage="true" />
+      <option name="MAIN_CLASS_NAME" value="GradleStartServer" />
+      <option name="VM_PARAMETERS" value="-Xincgc -Dfml.ignoreInvalidMinecraftCertificates=true" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../One Piece Mod\eclipse" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" value="" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="One Piece Mod" />
+      <envs />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -418,7 +486,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32905295" />
@@ -428,45 +495,47 @@
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.32753405" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.33386838" />
       <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.33386838" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32980332" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25037822" />
+      <window_info content_ui="combo" id="Project" order="5" weight="0.52723145" />
       <window_info anchor="right" id="Gradle" order="1" weight="0.32980332" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.24962178" />
       <window_info id="UI Designer" order="1" />
       <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.39967898" />
+      <window_info active="true" anchor="bottom" id="Debug" order="7" visible="true" weight="0.39967898" />
+      <window_info id="Favorites" order="3" side_tool="true" weight="0.32980332" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
+      <window_info anchor="right" id="Palette " order="2" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32744783" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Palette " order="2" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="6" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Gradle" order="1" weight="0.32980332" />
-      <window_info anchor="bottom" id="Version Control" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.33386838" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24962178" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.24962178" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32905295" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.33386838" />
+      <window_info anchor="bottom" id="Version Control" order="2" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32744783" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.39967898" />
-      <window_info anchor="right" id="Palette&#9;" order="2" />
       <window_info anchor="bottom" id="Terminal" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -495,6 +564,77 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Items/ItemMeraLeggings.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Items/ItemMeraChestplate.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Items/ItemMeraArmour.java" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/item/ItemFood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/bopm/lang/en_US.lang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Items/ItemMera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/entity/EntityBuggy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Blocks/BlockMera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="52" lean-forward="true" selection-start-column="52" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/entity/EntityMera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="9" column="3" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/OnePieceMod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="76" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/OnePieceMod.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="595">
@@ -522,7 +662,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/ItemMera.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Items/ItemMera.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
@@ -566,7 +706,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/ItemMera.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Items/ItemMera.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="24" selection-start-line="24" selection-end-line="24" />
@@ -637,30 +777,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Items/ItemMeraLeggings.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Items/ItemMeraChestplate.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Items/ItemMeraArmour.java" />
-    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/item/ItemFood.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/bopm/lang/en_US.lang">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/ItemMera.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/entity/EntityBuggy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -671,10 +787,17 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Blocks/BlockMera.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="52" lean-forward="true" selection-start-column="52" selection-end-column="52" />
+          <caret column="52" selection-start-column="52" selection-end-column="52" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/assets/bopm/lang/en_US.lang">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -690,18 +813,55 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/OnePieceMod.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="289">
+          <caret line="34" column="32" selection-start-line="34" selection-start-column="32" selection-end-line="34" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.4.1558-1.7.10/forgeSrc-1.7.10-10.13.4.1558-1.7.10-sources.jar!/net/minecraft/item/ItemFood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/guis/StatGui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Items/CharacterCreator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/beast/mods/onepiecemod/Items/ItemMera.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="76" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+          <caret line="9" column="67" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
         </state>
       </provider>
     </entry>

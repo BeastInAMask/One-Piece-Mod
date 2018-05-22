@@ -1,1 +1,10 @@
-[10:04:47] [Client thread/INFO]: Stopping!
+[07:08:30] [main/INFO]: Setting user: BeastInAMask
+[07:08:36] [Client thread/INFO]: LWJGL Version: 2.9.1
+[07:09:39] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Beast's One Piece Mod
+[07:09:43] [Sound Library Loader/INFO]: Sound engine started
+[07:10:09] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[07:10:09] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[07:10:10] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Beast's One Piece Mod
+[07:10:11] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[07:10:13] [Client thread/INFO]: Created: 4096x2048 textures/items-atlas
+[07:10:14] [Sound Library Loader/INFO]: Sound engine started

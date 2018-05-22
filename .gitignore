@@ -1,4 +1,4 @@
-# eclipse
+#eclipse
 bin
 *.launch
 .settings
@@ -6,17 +6,17 @@ bin
 .classpath
 .project
 
-# idea
+#idea
 out
 *.ipr
 *.iws
 *.iml
 .idea
 
-# gradle
+#gradle
 build
 .gradle
 
-# other
+#other
 eclipse
 run
